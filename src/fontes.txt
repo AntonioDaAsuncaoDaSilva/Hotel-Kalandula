@@ -1,0 +1,11 @@
+./service/ReservaService.java
+./service/QuartoService.java
+./service/HospedeService.java
+./ui/HotelApp.java
+./repository/HospedeRepository.java
+./repository/QuartoRepository.java
+./repository/ReservaRepository.java
+./model/TipoQuarto.java
+./model/Reserva.java
+./model/Quarto.java
+./model/Hospede.java
